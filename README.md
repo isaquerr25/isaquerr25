@@ -1,4 +1,5 @@
-## Oiii eu sou a Isaque Ribeiro Ferreria, sou [ Eng. Computação , Programador , Modelador 3D , Trader Forex] e amante de tecnologia!
+## Hello I am Isaque Ribeiro Ferreria, [ Eng. Computer , Programmer  , Modeler 3D , Trader Forex] and love tecnologic!
+## technologies I will learn this year React, Vue, Angular!
 <div align="center">
   <a href="https://github.com/isaquerr25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquerr25&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
