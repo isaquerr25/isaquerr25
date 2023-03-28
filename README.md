@@ -1,4 +1,4 @@
-## Hello I am Isaque Ribeiro Ferreria, [ Eng. Computer , Programmer  , Modeler 3D , Trader Forex] and love tecnologic!
+## Hello I am Isaque Ribeiro Ferreria, [ Eng. Computer , Programmer ] and love tecnologic!
 
 
 <div style="display: inline_block"><br>
