@@ -49,7 +49,6 @@ As a DevOps enthusiast, I bring a wealth of experience to the table. My dedicati
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/isaque-ferreira-20007b165/)
-- [GitHub](https://github.com/isaquerr25)
 - [Portfolio](https://portifolio-new-version.vercel.app/)
 
 Looking forward to connecting with you and exploring potential collaborations!
