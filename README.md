@@ -1,24 +1,55 @@
-## Hello I am Isaque Ribeiro Ferreria, [ Eng. Computer , Programmer ] and love tecnologic!
+# Isaque Ribeiro - DevOps Engineer
 
+Welcome to my LinkedIn profile! I'm Isaque Ribeiro, a passionate DevOps professional in Rondonópolis, MT, Brazil. I specialize in creating interactive and engaging user experiences, always striving to enhance usability and functionality.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/isaquerr25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
- <a href="https://discord.com/channels/DeadEnd#4466" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:isaqueribeiro964@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isaque-ferreira-20007b165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/isaquerr25/isaquerr25/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## Contact Information
+- 📞 Phone: ([+55 66 999791203](https://api.whatsapp.com/send/?phone=5566999791203&text=I+came+by+the+portfolio&type=phone_number&app_absent=0))
+- 📍 Location: Rondonópolis/MT, Brazil
+- 📧 Email: isaqueribeiro964@gmail.com
+
+## About Me
+As a DevOps enthusiast, I bring a wealth of experience to the table. My dedication is to collaborate on projects that require expertise in enhancing user interfaces. Feel free to reach out if you need a skilled developer for your upcoming project. I am eager to discuss how I can contribute to achieving your business goals.
+
+## Education
+- **University:** Unic - Kroton/University, 2017 - 2021
+  - *Degree:* Computer Engineering
+
+## Languages
+- 🇧🇷Portuguese - Native
+- 🇺🇸 English - Professional
+
+## Skills Overview
+### Languages
+- Typescript, Javascript, Python, Golang
+
+### Frameworks
+- React, Vite, NextJs, Vue, Electron
+
+### Databases
+- Supabase, MongoDB, Postgres, Weaviate, Amazon RDS, Aurora
+
+### Container and Infrastructure
+- Terraform, Kubernetes, Docker Swarm, Docker, Git Action, Jenkins, Portainer, Nginx, Redis, Kafka
+
+### SaaS
+- Auth0, Keycloak, Sentry, Matomo, Grafana, Segment, Send Grid
+
+### Cloud Platforms
+- AWS: EC2, S3, EKS, ECR, EBS, RDS, Redshift, DynamoDB, Route 53, Cloud Front, Direct Connect, WorkMail.
+- Digital Ocean: VPC, Load Balancers, Floating IPs, Firewalls, Block Storage Volumes
+
+### Project Management
+- Jira, Trello, Linear, Slack, Teams, Discord, Scrum, Kanban
+
+### Testing
+- Jest, Vitest, Pytest, Cypress
+
+### Libraries & Others
+- Typeorm, Redux, Mui Material, Chat Gpt, Prisma, Recoil, Radix-ui, React Query, Apollo, Type Graphql, Graphql.
+
+## Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/isaque-ferreira-20007b165/)
+- [GitHub](https://github.com/isaquerr25)
+- [Portfolio](https://portifolio-new-version.vercel.app/)
+
+Looking forward to connecting with you and exploring potential collaborations!
