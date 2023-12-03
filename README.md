@@ -1,6 +1,6 @@
 # DevOps Engineer
 
-Welcome to my LinkedIn profile! I'm Isaque Ribeiro, a passionate DevOps professional in Rondonópolis, MT, Brazil. I specialize in creating interactive and engaging user experiences, always striving to enhance usability and functionality.
+I'm Isaque Ribeiro, a passionate DevOps professional in Rondonópolis, MT, Brazil. I specialize in creating interactive and engaging user experiences, always striving to enhance usability and functionality.
 
 ## Contact Information
 - 📞 Phone: ([+55 66 999791203](https://api.whatsapp.com/send/?phone=5566999791203&text=I+came+by+the+portfolio&type=phone_number&app_absent=0))
