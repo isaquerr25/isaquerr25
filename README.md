@@ -20,7 +20,7 @@ As a DevOps enthusiast, I bring a wealth of experience to the table. My dedicati
 
 ## Skills Overview
 ### Languages
-- Typescript, Javascript, Python, Golang
+- Typescript, Javascript, Python, Golang, C# .NET
 
 ### Frameworks
 - React, Vite, NextJs, Vue, Electron
